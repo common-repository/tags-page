@@ -1,0 +1,61 @@
+# Copyright (C) 2010 Tags Page
+# This file is distributed under the same license as the Tags Page package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tags Page 1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/tags-page\n"
+"POT-Creation-Date: 2011-02-17 11:53:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: tags-page.php:90
+msgid "Tag"
+msgstr "Štítek"
+
+#: tags-page.php:91
+msgid "Count"
+msgstr "Četnost"
+
+#: tags-page.php:103
+msgid "View all posts in %s"
+msgstr "Zobrazit příspěvky označené štítkem %s"
+
+#: tags-page.php:195
+msgid "(all tags)"
+msgstr "(všechny štítky)"
+
+#: tags-page.php:41
+msgid "Tags page URL:"
+msgstr "URL adresa stránky se všemi štítky:"
+
+#: tags-page.php:42
+msgid "Tags page caption:"
+msgstr "Text odkazu na stránku se všemi štítky:"
+
+#: tags-page.php:272
+msgid "Tags Page settings moved"
+msgstr "Nastavení Tags Page přemístěno"
+
+#: tags-page.php:273
+msgid "Tags Page settings are moved directly into Tag&nbsp;Cloud widget options, please check Appearance&nbsp;&rarr;&nbsp;Widgets. There is also new option for link caption."
+msgstr "Nastavení pluginu Tags&nbsp;Page je přemístěno přímo do možností widgetu Štítky, prosím zkontrolujte Vzhled&nbsp;&rarr;&nbsp;Widgety. Nyní také můžete nastavit text odkazu."
+
+#: tags-page.php:41
+msgid "link"
+msgstr "link"
+
+#: tags-page.php:349
+msgid "All Tags"
+msgstr "Všechny štítky"
+
+#: tags-page.php:354
+msgid "all-tags"
+msgstr "vsechny-stitky"
+
+#: tags-page.php:140
+msgid "Page %1$s of %2$s"
+msgstr "Strana %1$s z %2$s"

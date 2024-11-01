@@ -1,0 +1,79 @@
+.tags_table th, .tags_table td {
+	padding-left: 2px;
+	padding-right: 2px;
+}
+
+.tags_table_column_tag_caption {
+	text-align: left;
+}
+
+.tags_table_column_count_caption {
+	text-align: right;
+}
+
+.tags_table thead, .tags_table tfoot {
+	color: white;
+	background: black;
+}	
+
+.tags_table th {
+	cursor: pointer;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.tags_table th:hover {
+	text-decoration:underline;
+}
+
+.tags_table th:after {
+	content: " ↑";
+}		
+
+.tags_table th[sortdir="down"]:after {
+	content: " ↑";
+}		
+
+.tags_table th[sortdir="up"]:after {
+	content: " ↓";
+}		
+
+.tags_table tbody tr:hover {
+	background: LightGrey;
+}	
+
+.tags_table_column_count {
+	text-align: right;
+}
+
+a.all-tags-link {
+  display: block;
+	font-size: small;
+	text-align: center;
+	margin: auto;
+	margin-top: 0.5em;
+}
+
+.tags-page-pagination {
+  margin-bottom: 0.6em;
+}
+
+.tags-page-pagination span,
+.tags-page-pagination a {
+  color: gray;
+  border: 1px solid gray;
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+  margin-left: 0.1em;
+  margin-right: 0.1em;
+}
+
+.tags-page-pagination span:first-child {
+  margin-left: 0;
+  margin-right: 0.3em;
+}
+
+.tags-page-pagination span.current-page {
+  color: black;
+  border: 1px solid black;
+}

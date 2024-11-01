@@ -1,0 +1,22 @@
+.tags-page-config {
+  display: table-row;
+}
+
+.tags-page-config span {
+  display: table-cell;
+  width: 1%;
+}
+
+.tags-page-config input.button {
+  text-decoration: underline;
+  position: relative;
+  top: -2px;
+  height: 27px !important;
+}
+
+@media screen and (max-width: 782px) {
+  .tags-page-config input.button {
+    top: -1px;
+    height: 30px !important;
+  }
+}
